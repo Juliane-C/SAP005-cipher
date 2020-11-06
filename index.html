@@ -1,14 +1,40 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Caesar Cipher</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <div id="root">
-      <h1>Hello world!</h1>
+
+<head>
+  <meta charset="utf-8">
+  <title>Ingrediente Secreto</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <script src="index.js" type="module"></script>
+  <div>
+    <h1>Qual é o ingrediente secreto??</h1>
+    <p>Olá, tudo bem? O objetivo deste projeto é auxiliar você enviar uma mensagem secreta ou saber o que foi enviando a
+      você através da mensagem cifrada que recebeu :)</p>
+    <p>Abaixo você tem disponível as seguintes opções. Selecione a que melhor corresponde com o seu objetivo</p>
+  </div>
+
+  <div class="opcoes">
+    <div class="cifrar">
+      <p>Se vocẽ deseja <strong>cifrar</strong> o seu ingrediente secreto de sua receita, clique no botão abaixo:</p>
+      <form>
+        <input id="buttonc" type="button" value="Cifrar" onclick="cliquec()">
+      </form>
     </div>
-    <script src="index.js" type="module"></script>
-  </body>
+    <div class="decifrar">
+      <!--comentário-->
+      <p>Se você deseja <b>decrifar</b> o ingrediente secreto de sua receita, clique no botão abaixo:</p>
+      <form>
+        <button id="buttond" onclick="cliqued()">Decifrar</button>
+      </form>
+    </div>
+  </div>
+
+  <footer>
+    Desenvolvido por <a href="https://github.com/Juliane-C" target="blank">Juliane-C</a>.
+  </footer>
+</body>
+
 </html>
