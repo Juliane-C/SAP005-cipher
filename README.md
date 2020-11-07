@@ -24,22 +24,22 @@ Os itens a seguir, abordam as partes essências para a construção desse projet
 
 A seguir, estão imagens do esboço feito e seguindo para construir o visual do projeto e desenvolver a lógica básica no JavaScript, para agir conforme a interação do usuário:
 
-![Esboço 1, que foi seguido para a execução desse projeto](src/img/esbocoa.jpg)
+![Esboço 1, que foi seguido para a execução desse projeto](esbocoa.jpg)
 
-![Esboço 2, uma alternativa para exibir a msg ao usuário](src/img/esbocob.jpg)
+![Esboço 2, uma alternativa para exibir a msg ao usuário](esbocob.jpg)
 
-![Esboço 3, uma opção alternativa](src/img/esbococ.jpg)
+![Esboço 3, uma opção alternativa](esbococ.jpg)
 
 
 ### Planejamento
 
 A seguir tem parte do planejamento breve feito através da ferramenta Trello para ir estruturando a aplicação e acompanhar o progresso do desenvolvimento:
 
-![Geral da organização no Trello](src/img/trelloa.png)
+![Geral da organização no Trello](trelloa.png)
 
-![Card com checklist feito](src/img/trellob.png)
+![Card com checklist feito](trellob.png)
 
-![Card com checklist em andamento](src/img/trelloc.png)
+![Card com checklist em andamento](trelloc.png)
 
 ### Na prática
 
