@@ -35,11 +35,11 @@ A seguir, estão imagens do esboço feito e seguindo para construir o visual do 
 
 A seguir tem parte do planejamento breve feito através da ferramenta Trello para ir estruturando a aplicação e acompanhar o progresso do desenvolvimento:
 
-![Geral da organização no Trello](src/img/trelloa.jpg)
+![Geral da organização no Trello](src/img/trelloa.png)
 
-![Card com checklist feito](src/img/trellob.jpg)
+![Card com checklist feito](src/img/trellob.png)
 
-![Card com checklist em andamento](src/img/trelloc.jpg)
+![Card com checklist em andamento](src/img/trelloc.png)
 
 ### Na prática
 
