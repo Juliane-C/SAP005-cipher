@@ -13,8 +13,8 @@
 A proposta inicial deste projeto foi criar uma aplicação web que realizasse a cifra de césar, tanto para cifrar como para
 decifrar uma mensagem que fosse enviada pelo usuário. Para a realização desse projeto, foram estabelecidos alguns
 requisitos e material de apoio para que a ideia fosse executada com sucesso.
-Diante da proposta, a escolha foi fazer uma aplicação que cifre e decifre uma mensagem secreta, sem um tema específico. A ideia inicial era fazer uma aplicação web que cifrasse e decifrasse um ingrediente secreto, para uma receita “X”, numa vibe de “dia das bruxas”, por isso as cores clássicas preto, laranja e roxo. 
-O projeto não está finalizado/completo, mas apresento aqui o que foi construido até aqui, diante da proposta inicial.
+Diante da proposta, a escolha foi fazer uma aplicação que cifre e decifre uma mensagem secreta, sem um tema específico. A ideia inicial era fazer uma aplicação web que cifrasse e decifrasse um ingrediente secreto, para uma receita _“X”_, numa vibe de _“dia das bruxas”_, por isso as cores clássicas preto, laranja e roxo. 
+O projeto não está finalizado/completo, mas apresento aqui o que foi construído até aqui, diante da proposta inicial.
 
 ## 2. Desenvolvimento do projeto
 
@@ -24,16 +24,22 @@ Os itens a seguir, abordam as partes essências para a construção desse projet
 
 A seguir, estão imagens do esboço feito e seguindo para construir o visual do projeto e desenvolver a lógica básica no JavaScript, para agir conforme a interação do usuário:
 
-* Mensagens secretas para alguma pessoa.
-* Ferramenta de mensagens internas de uma organização em uma zona de conflito.
-* Cifrar cartões de crédito.
-* Criar senhas seguras para email.
+![Esboço 1, que foi seguido para a execução desse projeto](src/img/esbocoa.jpg)
+
+![Esboço 2, uma alternativa para exibir a msg ao usuário](src/img/esbocob.jpg)
+
+![Esboço 3, uma opção alternativa](src/img/esbococ.jpg)
+
 
 ### Planejamento
 
 A seguir tem parte do planejamento breve feito através da ferramenta Trello para ir estruturando a aplicação e acompanhar o progresso do desenvolvimento:
 
-FOTOS, FOTOS E FOTOS 
+![Geral da organização no Trello](src/img/trelloa.jpg)
+
+![Card com checklist feito](src/img/trellob.jpg)
+
+![Card com checklist em andamento](src/img/trelloc.jpg)
 
 ### Na prática
 
@@ -45,11 +51,11 @@ Depois de atriuir os nomes, foram feitas as configurações no arquivo CSS e dep
 ## 3. Concluindo
 
 Agora, o que falta para finalizar é: 
-  * Construir as funções de cifrar (cipher.encode) e decifrar (cipher.decode) a palavra/mensagem;
+  * Construir as funções de cifrar (`cipher.encode´) e decifrar (`cipher.decode´) a palavra ou mensagem;
   * Definir uma função throw TypeError, para o caso de o usuário inserir um valor diferente do que é requerido para que seja executada a função;
  * Definir uma função de alerta para o caso do usuário não inserir nenhum tipo de valor e assim, não continuar com a execução da função;
  * Estruturar melhor o CSS para ficar mais próximo melhorado, diante do esboço feito;
  * Fazer os testes para ver se as funções todas estão funcionando conforme o esperado.
 
-  Obrigada pela atenção! 
+  Obrigada pela atenção! :sunflower: :yellow_heart:
 
