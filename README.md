@@ -35,11 +35,11 @@ A seguir, estão imagens do esboço feito e seguindo para construir o visual do 
 
 A seguir tem parte do planejamento breve feito através da ferramenta Trello para ir estruturando a aplicação e acompanhar o progresso do desenvolvimento:
 
-![Geral da organização no Trello](src/img/trelloa.jpg)
+![Geral da organização no Trello](src/img/trelloa.png)
 
-![Card com checklist feito](src/img/trellob.jpg)
+![Card com checklist feito](src/img/trellob.png)
 
-![Card com checklist em andamento](src/img/trelloc.jpg)
+![Card com checklist em andamento](src/img/trelloc.png)
 
 ### Na prática
 
@@ -51,7 +51,7 @@ Depois de atriuir os nomes, foram feitas as configurações no arquivo CSS e dep
 ## 3. Concluindo
 
 Agora, o que falta para finalizar é: 
-  * Construir as funções de cifrar (`cipher.encode´) e decifrar (`cipher.decode´) a palavra ou mensagem;
+  * Construir as funções de cifrar (`cipher.encode`) e decifrar (`cipher.decode`) a palavra ou mensagem;
   * Definir uma função throw TypeError, para o caso de o usuário inserir um valor diferente do que é requerido para que seja executada a função;
  * Definir uma função de alerta para o caso do usuário não inserir nenhum tipo de valor e assim, não continuar com a execução da função;
  * Estruturar melhor o CSS para ficar mais próximo melhorado, diante do esboço feito;
